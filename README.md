@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Currently learning Rust<br>- I work mainly on data analysis and embedded programming<br>- I love trying out new libraries</p>
+<p align="left">- I work mainly on data analysis and embedded programming<br>- I love trying out new libraries</p>
 
 ###
 
