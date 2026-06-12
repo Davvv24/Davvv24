@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a physics student that enjoys programming.</p>
+<p align="left">I'm a physics student that enjoys programming. Although I mostly focus on data analysis, I constantly branch out on new projects.</p>
 
 ###
 
